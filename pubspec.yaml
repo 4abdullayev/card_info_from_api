@@ -1,0 +1,30 @@
+name: card_info_from_api
+description: A new Flutter project.
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  http: ^1.1.0
+  zoom_tap_animation: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
